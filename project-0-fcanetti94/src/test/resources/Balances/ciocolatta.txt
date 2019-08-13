@@ -1,0 +1,5 @@
+Account created on 08, 12, 2019
+ Transaction History
+ Initial Balance: $0.00
+08/12/2019- Deposit - $94,563.35.
+08/12/2019- Withdrawal - $90,000.00.
