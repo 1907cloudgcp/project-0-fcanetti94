@@ -15,7 +15,7 @@ def main():
 2- REGISTER
 3- LOGOUT """)
 
-    ans = input("\n Please enter a number to make your selection")
+    ans = input("\n Please enter a number to make your selection: ")
 
     # try:
     if ans == "1":
@@ -27,7 +27,7 @@ def main():
     elif ans == "3":
         print("Goodbye")
         logging.info("Program closed")
-        sys.exit(0)
+        sys.exit()
     else:
         logging.error(("INVALID Menu Selection"))
         main()

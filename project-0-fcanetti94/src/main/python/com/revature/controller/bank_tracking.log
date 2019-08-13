@@ -127,3 +127,81 @@ menu : 2019-08-12 21:45:41,927 : ERROR : INVALID Menu Selection
 menu : 2019-08-12 21:45:43,653 : INFO : Program closed
 login : 2019-08-12 21:46:37,934 : INFO : ciocolatta has logged in to the system
 menu : 2019-08-12 22:02:49,349 : INFO : Program closed
+login : 2019-08-13 09:10:51,370 : INFO : jojo has logged in to the system
+login : 2019-08-13 09:26:41,176 : INFO : jojo has logged in to the system
+transfer : 2019-08-13 09:27:18,873 : ERROR : Account not found
+menu : 2019-08-13 09:31:38,421 : INFO : Program closed
+menu : 2019-08-13 09:31:56,351 : INFO : Program closed
+menu : 2019-08-13 09:41:46,928 : ERROR : INVALID Menu Selection
+login : 2019-08-13 09:42:01,851 : INFO : jojo has logged in to the system
+transfer : 2019-08-13 09:42:29,453 : WARNING : Transfered Cancelled due to not finding the account
+menu : 2019-08-13 09:43:53,064 : INFO : Program closed
+login : 2019-08-13 09:58:00,015 : INFO : ciocolatta has logged in to the system
+transfer : 2019-08-13 09:58:15,019 : WARNING : Invalid account number
+transfer : 2019-08-13 09:58:26,947 : WARNING : Invalid account number
+login : 2019-08-13 10:06:49,510 : INFO : ciocolatta has logged in to the system
+login : 2019-08-13 10:09:07,491 : INFO : ciocolatta has logged in to the system
+login : 2019-08-13 10:09:34,918 : INFO : ciocolatta has logged in to the system
+transfer : 2019-08-13 10:09:51,403 : WARNING : Transfer cancelled due to not finding the account
+login : 2019-08-13 10:14:10,649 : INFO : jojo has logged in to the system
+usermenu : 2019-08-13 10:14:24,097 : INFO : User Logged Out
+login : 2019-08-13 10:15:33,295 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:16:35,887 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:18:04,438 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:19:19,422 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:20:28,082 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:27:26,955 : ERROR : Account Username does not exist
+login : 2019-08-13 10:27:36,564 : ERROR : jojo has entered a wrong password
+login : 2019-08-13 10:27:45,211 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:28:35,838 : INFO : ciocolatta has logged in to the system
+login : 2019-08-13 10:29:33,152 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:31:37,886 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:35:47,646 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:40:44,862 : INFO : jojo has logged in to the system
+transfer : 2019-08-13 10:40:51,093 : ERROR : Account not found
+transfer : 2019-08-13 10:41:16,516 : WARNING : Transfer cancelled due to not finding the account
+transfer : 2019-08-13 10:42:21,199 : WARNING : Not enough funds avaialble  for jojo
+login : 2019-08-13 10:45:53,944 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:49:09,592 : ERROR : Account Username does not exist
+login : 2019-08-13 10:49:20,036 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:57:11,916 : INFO : jojo has logged in to the system
+login : 2019-08-13 10:59:10,657 : INFO : jojo has logged in to the system
+login : 2019-08-13 11:02:47,113 : INFO : ciocolatta has logged in to the system
+transfer : 2019-08-13 11:03:09,850 : WARNING : Transfer cancelled due to not finding the account
+transfer : 2019-08-13 11:03:32,269 : WARNING : Transfer cancelled due to not finding the account
+transfer : 2019-08-13 11:03:46,347 : WARNING : Invalid account number
+login : 2019-08-13 11:07:42,015 : INFO : jojo has logged in to the system
+login : 2019-08-13 11:09:16,137 : INFO : jojo has logged in to the system
+login : 2019-08-13 11:11:35,589 : ERROR : ciocolatta has entered a wrong password
+login : 2019-08-13 11:11:45,126 : INFO : ciocolatta has logged in to the system
+login : 2019-08-13 11:21:03,427 : INFO : jojo has logged in to the system
+menu : 2019-08-13 11:28:07,110 : ERROR : INVALID Menu Selection
+login : 2019-08-13 11:29:27,534 : INFO : jojo has logged in to the system
+transfer : 2019-08-13 11:31:23,173 : WARNING : Invalid account number
+login : 2019-08-13 11:38:05,788 : INFO : jojo has logged in to the system
+login : 2019-08-13 11:40:39,947 : INFO : jojo has logged in to the system
+transfer : 2019-08-13 11:40:52,134 : WARNING : Transfer cancelled due to not finding the account
+transfer : 2019-08-13 11:40:59,388 : ERROR : Account not found
+login : 2019-08-13 11:48:21,996 : INFO : jojo has logged in to the system
+login : 2019-08-13 12:35:36,775 : INFO : jojo has logged in to the system
+login : 2019-08-13 12:48:28,735 : INFO : jojo has logged in to the system
+login : 2019-08-13 12:49:38,966 : INFO : jojo has logged in to the system
+login : 2019-08-13 12:50:58,028 : INFO : jojo has logged in to the system
+login : 2019-08-13 12:51:53,414 : INFO : jojo has logged in to the system
+login : 2019-08-13 12:57:19,803 : INFO : jojo has logged in to the system
+transfer : 2019-08-13 12:57:36,735 : WARNING : Transfer cancelled due to not finding the account
+login : 2019-08-13 12:59:52,980 : INFO : jojo has logged in to the system
+registration : 2019-08-13 13:02:14,435 : INFO : Password has been hashed
+registration : 2019-08-13 13:02:14,446 : INFO : Account for: Adriana Arroyo has registered an account with the username moistsocks
+login : 2019-08-13 13:02:24,356 : INFO : moistsocks has logged in to the system
+transfer : 2019-08-13 13:02:52,982 : WARNING : Not enough funds avaialble  for moistsocks
+login : 2019-08-13 13:05:18,721 : INFO : moistsocks has logged in to the system
+transfer : 2019-08-13 13:05:37,509 : WARNING : Transfer cancelled due to not finding the account
+menu : 2019-08-13 13:07:55,895 : ERROR : INVALID Menu Selection
+login : 2019-08-13 13:08:04,055 : INFO : jojo has logged in to the system
+login : 2019-08-13 13:09:49,304 : INFO : jojo has logged in to the system
+transfer : 2019-08-13 13:09:59,330 : WARNING : Transfer cancelled due to not finding the account
+login : 2019-08-13 13:17:09,402 : INFO : jojo has logged in to the system
+login : 2019-08-13 14:33:48,089 : INFO : moistsocks has logged in to the system
+transfer : 2019-08-13 14:34:14,440 : WARNING : Transfer cancelled due to not finding the account
+transfer : 2019-08-13 14:34:38,920 : WARNING : Invalid account number

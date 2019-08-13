@@ -1,0 +1,7 @@
+Account created on 08, 13, 2019
+ Transaction History
+ Initial Balance: $0.00
+08/13/2019- Deposit - $952,345.00.
+08/ 13/ 2019 - Transfer to jojo $1,013.00.
+08/ 13/ 2019 - Transfer to jojo $123.00.
+08/ 13/ 2019 - Transfer to mijo $1,234.56.

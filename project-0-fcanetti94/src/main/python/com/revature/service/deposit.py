@@ -53,8 +53,8 @@ def main():
                 logging.warning("INVALID Account number entered")
                 usermenu.main()
     except FileNotFoundError:
-        print("User not Found returning to main menu")
-        logging.ERROR("ACCOUNT NOT FOUND")
+        print("Username not found, returning to main menu")
+        logging.error("Account not found")
         usermenu.main()
 
     if __name__ == '__main__':

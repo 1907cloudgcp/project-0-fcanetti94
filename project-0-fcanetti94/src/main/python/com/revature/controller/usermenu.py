@@ -1,6 +1,6 @@
 from src.main.python.com.revature.controller import menu
 import logging
-from src.main.python.com.revature.service import deposit, withdrawals, transaction_history, balance
+from src.main.python.com.revature.service import deposit, withdrawals, transaction_history, balance , transfer
 
 
 def main():
@@ -10,7 +10,8 @@ def main():
         2- Deposit Money 
         3- Withdraw Money
         4- View Transactions
-        5- System Logout''')
+        5- Money Transfer
+        6- System Logout''')
 
     ans = input("Please make a selection: ")
 
@@ -33,9 +34,14 @@ def main():
         print("---------")
         print("View Transaction History: ")
         # calls the transaction history module
-        balance.main()
-    elif ans == '5':
-        print("Thank you for using PygBank")
+        transaction_history.main()
+    elif ans =='5':
+        print("---------")
+        print("Transfer Money: ")
+        #calls the money transfer module
+        transfer.main()
+    elif ans == '6':
+        print("Thank you for using Python Bank")
         menu.main()
         logging.info("User Logged Out")
     else:
