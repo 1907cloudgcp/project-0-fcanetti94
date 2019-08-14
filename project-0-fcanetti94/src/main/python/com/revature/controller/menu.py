@@ -1,6 +1,5 @@
 import sys
-from src.main.python.com.revature.io import login
-from src.main.python.com.revature.io import registration
+from src.main.python.com.revature.io import login , reset_password , registration
 # import the logging  to keep track of possible errors in the code(?)
 import logging
 
@@ -11,9 +10,10 @@ import logging
 def main():
     print("Welcome to Python Bank. Make a selection by typing the number of the option")
     print("""  
-1-ENTER
+1- ENTER
 2- REGISTER
-3- LOGOUT """)
+3- FORGOTTEN PASSWORD
+4- EXIT PROGRAM """)
 
     ans = input("\n Please enter a number to make your selection: ")
 
@@ -25,6 +25,10 @@ def main():
         print("Registration Menu")
         registration.main()
     elif ans == "3":
+        print("Reset your password: ")
+        #calls the reset password
+        reset_password.main()
+    elif ans == "4":
         print("Goodbye")
         logging.info("Program closed")
         sys.exit()

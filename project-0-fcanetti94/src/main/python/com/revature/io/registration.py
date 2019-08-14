@@ -4,12 +4,12 @@ from datetime import datetime
 from hashlib import sha256
 import os.path
 import logging
-
+import getpass
 # this function will hash the password for storage on the json file
 # Hashes the password so it isnt stored on a plain text format on a json file
 def secure_passwd():
-    base_passwd = input("Please enter your password. Must have a minimum of six characters: ").encode('utf-8')
-    if len(base_passwd) > 6:
+    base_passwd = getpass.getpass("Please enter your password. Must have a minimum of six characters: ").encode('utf-8')
+    if len(base_passwd) >= 6:
         hash_passwd = sha256(base_passwd).hexdigest()
         logging.info("Password has been hashed")
         return hash_passwd

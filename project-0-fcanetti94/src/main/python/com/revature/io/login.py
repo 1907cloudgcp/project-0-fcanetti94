@@ -4,6 +4,8 @@ import logging
 from src.main.python.com.revature.controller import usermenu
 from hashlib import sha256
 import os.path
+#hides the password input
+import getpass
 
 
 # THIS SCRIPT IS FOR THE MAIN LOG IN SCREEN FOR THE SYSTEM
@@ -15,7 +17,7 @@ def main():
                            "%s.json" % acct_username), 'r') as read_acct:
             acct_data = json.load(read_acct)
             #print(acct_data['Password '])
-            password_prompt = input("Please enter your password: ").encode('utf-8')
+            password_prompt = getpass.getpass("Please enter your password: ").encode('utf-8')
             hash_prompt = sha256(password_prompt).hexdigest()
             try:
                 if hash_prompt in acct_data['Password ']:
@@ -25,8 +27,9 @@ def main():
                     print("Wrong password, returning to main menu")
                     logging.error((acct_username + " has entered a wrong password"))
                     menu.main()
-            except:
-                print("Useless")
+            except FileNotFoundError:
+                logging.warning("Account Information not found")
+
     except FileNotFoundError:
         print("The account does not exist, please reenter your username. If you dont have a username you must "
               "register for the service before attempting to log in. Returning to Main Menu")

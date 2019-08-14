@@ -205,3 +205,28 @@ login : 2019-08-13 13:17:09,402 : INFO : jojo has logged in to the system
 login : 2019-08-13 14:33:48,089 : INFO : moistsocks has logged in to the system
 transfer : 2019-08-13 14:34:14,440 : WARNING : Transfer cancelled due to not finding the account
 transfer : 2019-08-13 14:34:38,920 : WARNING : Invalid account number
+login : 2019-08-13 20:04:50,929 : INFO : moistsocks has logged in to the system
+menu : 2019-08-13 20:09:57,988 : INFO : Program closed
+reset_password : 2019-08-13 20:31:10,819 : ERROR : Account username invalid
+registration : 2019-08-13 21:04:10,733 : INFO : Password has been hashed
+registration : 2019-08-13 21:04:10,748 : INFO : Account for: Yavier Mari Rivera has registered an account with the username yavi
+reset_password : 2019-08-13 21:16:54,074 : WARNING : Account Holder Information was not found
+reset_password : 2019-08-13 21:19:50,006 : ERROR : Account username invalid
+registration : 2019-08-13 21:32:16,313 : INFO : Password has been hashed
+registration : 2019-08-13 21:46:15,648 : INFO : Password has been hashed
+registration : 2019-08-13 21:47:09,895 : INFO : Password has been hashed
+reset_password : 2019-08-13 21:47:45,659 : WARNING : Account Holder Information was not found
+registration : 2019-08-13 21:48:15,589 : INFO : Password has been hashed
+registration : 2019-08-13 21:53:19,352 : INFO : Password has been hashed
+registration : 2019-08-13 21:54:42,684 : INFO : Password has been hashed
+registration : 2019-08-13 21:59:47,121 : INFO : Password has been hashed
+login : 2019-08-13 22:00:13,775 : INFO : moistsocks has logged in to the system
+menu : 2019-08-13 22:00:19,441 : INFO : Program closed
+registration : 2019-08-13 22:01:36,083 : INFO : Password has been hashed
+reset_password : 2019-08-13 22:01:36,083 : INFO : User moistsocks has changed their password
+menu : 2019-08-13 22:02:27,482 : INFO : Program closed
+registration : 2019-08-13 22:08:09,141 : INFO : Password has been hashed
+registration : 2019-08-13 22:08:09,153 : INFO : Account for: Alexandra Rivera  has registered an account with the username ale
+login : 2019-08-13 22:08:17,223 : INFO : ale has logged in to the system
+menu : 2019-08-13 22:08:21,829 : ERROR : INVALID Menu Selection
+menu : 2019-08-13 22:08:23,270 : INFO : Program closed
